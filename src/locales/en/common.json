@@ -1,0 +1,62 @@
+{
+  "greeting": "Hello, {{name}}!",
+  "play": "Play",
+  "stop": "Stop",
+  "notifications": "{count, plural, =0 {No notifications} one {You have 1 notification} other {You have # notifications}}",
+  "soundLab": {
+    "title": "Sound Lab",
+    "solfeggioButtons": {
+      "174Hz": "174 Hz (Foundation)",
+      "285Hz": "285 Hz (Quantum)",
+      "396Hz": "396 Hz (UT)",
+      "417Hz": "417 Hz (RE)",
+      "528Hz": "528 Hz (MI)",
+      "639Hz": "639 Hz (FA)",
+      "741Hz": "741 Hz (SOL)",
+      "852Hz": "852 Hz (LA)",
+      "963Hz": "963 Hz (SI)",
+      "custom": "+ Custom"
+    },
+    "layer": {
+      "leftHz": "Hz (L)",
+      "rightHz": "Hz (R)",
+      "volume": "Vol",
+      "pan": "Pan",
+      "mute": "Mute",
+      "unmute": "Unmute",
+      "remove": "Remove"
+    },
+    "controls": {
+      "playAll": "Play All",
+      "stopAll": "Stop All"
+    },
+    "presets": {
+      "presetNamePlaceholder": "Preset name",
+      "save": "Save Preset",
+      "export": "Export",
+      "import": "Import",
+      "presetsTitle": "Presets",
+      "load": "Load",
+      "delete": "Delete"
+    },
+    "analyzer": {
+      "comingSoon": "[Spectrum Analyzer Coming Soon]"
+    }
+    ,
+    "debug": {
+      "current": "Current Tone",
+      "idle": "Idle",
+      "testTone": "Test Tone",
+      "stopTone": "Stop Tone"
+    }
+  }
+  ,
+  "nav": {
+    "home": "Home",
+    "sessions": "Sessions",
+    "soundLab": "Sound Lab",
+    "dashboard": "Dashboard",
+    "frequencies": "Frequencies",
+    "community": "Community"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "greeting": "Salam, {{name}}!",
+  "play": "Oynat",
+  "stop": "Dayandır",
+  "notifications": "{count, plural, =0 {Bildiriş yoxdur} one {# bildiriş} other {# bildiriş}}",
+  "soundLab": {
+    "title": "Səs Laboratoriyası",
+    "solfeggioButtons": {
+      "174Hz": "174 Hz (Foundation)",
+      "285Hz": "285 Hz (Quantum)",
+      "396Hz": "396 Hz (UT)",
+      "417Hz": "417 Hz (RE)",
+      "528Hz": "528 Hz (MI)",
+      "639Hz": "639 Hz (FA)",
+      "741Hz": "741 Hz (SOL)",
+      "852Hz": "852 Hz (LA)",
+      "963Hz": "963 Hz (SI)",
+      "custom": "+ Fərdi"
+    },
+    "layer": {
+      "leftHz": "Hz (L)",
+      "rightHz": "Hz (R)",
+      "volume": "Səs",
+      "pan": "Pan",
+      "mute": "Səssiz",
+      "unmute": "Səsi aç",
+      "remove": "Sil"
+    },
+    "controls": {
+      "playAll": "Hamısını oynat",
+      "stopAll": "Hamısını dayandır"
+    },
+    "presets": {
+      "presetNamePlaceholder": "Preset adı",
+      "save": "Saxla",
+      "export": "İxrac et",
+      "import": "İdxal et",
+      "presetsTitle": "Presetlər",
+      "load": "Yüklə",
+      "delete": "Sil"
+    },
+    "analyzer": {
+      "comingSoon": "[Spektr Analizatoru Tezliklə]"
+    }
+    ,
+    "debug": {
+      "current": "Cari Ton",
+      "idle": "Boşda",
+      "testTone": "Test Tonu",
+      "stopTone": "Tonu Dayandır"
+    }
+  }
+  ,
+  "nav": {
+    "home": "Ana Səhifə",
+    "sessions": "Sessiyalar",
+    "soundLab": "Səs Laboratoriyası",
+    "dashboard": "Panel",
+    "frequencies": "Frekanslar",
+    "community": "İcma"
+  }
+}

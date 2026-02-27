@@ -1,0 +1,62 @@
+{
+  "greeting": "¡Hola, {{name}}!",
+  "play": "Reproducir",
+  "stop": "Detener",
+  "notifications": "{count, plural, =0 {Sin notificaciones} one {Tienes 1 notificación} other {Tienes # notificaciones}}",
+  "soundLab": {
+    "title": "Laboratorio de Sonido",
+    "solfeggioButtons": {
+      "174Hz": "174 Hz (Foundation)",
+      "285Hz": "285 Hz (Quantum)",
+      "396Hz": "396 Hz (UT)",
+      "417Hz": "417 Hz (RE)",
+      "528Hz": "528 Hz (MI)",
+      "639Hz": "639 Hz (FA)",
+      "741Hz": "741 Hz (SOL)",
+      "852Hz": "852 Hz (LA)",
+      "963Hz": "963 Hz (SI)",
+      "custom": "+ Personalizado"
+    },
+    "layer": {
+      "leftHz": "Hz (I)",
+      "rightHz": "Hz (D)",
+      "volume": "Vol",
+      "pan": "Pan",
+      "mute": "Silenciar",
+      "unmute": "Activar sonido",
+      "remove": "Eliminar"
+    },
+    "controls": {
+      "playAll": "Reproducir todo",
+      "stopAll": "Detener todo"
+    },
+    "presets": {
+      "presetNamePlaceholder": "Nombre del preset",
+      "save": "Guardar preset",
+      "export": "Exportar",
+      "import": "Importar",
+      "presetsTitle": "Presets",
+      "load": "Cargar",
+      "delete": "Eliminar"
+    },
+    "analyzer": {
+      "comingSoon": "[Analizador de espectro próximamente]"
+    }
+    ,
+    "debug": {
+      "current": "Tono actual",
+      "idle": "Inactivo",
+      "testTone": "Tono de prueba",
+      "stopTone": "Detener tono"
+    }
+  }
+  ,
+  "nav": {
+    "home": "Inicio",
+    "sessions": "Sesiones",
+    "soundLab": "Laboratorio",
+    "dashboard": "Panel",
+    "frequencies": "Frecuencias",
+    "community": "Comunidad"
+  }
+}

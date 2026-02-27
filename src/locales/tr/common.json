@@ -1,0 +1,62 @@
+{
+  "greeting": "Merhaba, {{name}}!",
+  "play": "Oynat",
+  "stop": "Durdur",
+  "notifications": "{count, plural, =0 {Bildirim yok} one {# bildirim} other {# bildirim}}",
+  "soundLab": {
+    "title": "Ses Laboratuvarı",
+    "solfeggioButtons": {
+      "174Hz": "174 Hz (Foundation)",
+      "285Hz": "285 Hz (Quantum)",
+      "396Hz": "396 Hz (UT)",
+      "417Hz": "417 Hz (RE)",
+      "528Hz": "528 Hz (MI)",
+      "639Hz": "639 Hz (FA)",
+      "741Hz": "741 Hz (SOL)",
+      "852Hz": "852 Hz (LA)",
+      "963Hz": "963 Hz (SI)",
+      "custom": "+ Özel"
+    },
+    "layer": {
+      "leftHz": "Hz (L)",
+      "rightHz": "Hz (R)",
+      "volume": "Ses",
+      "pan": "Pan",
+      "mute": "Sessiz",
+      "unmute": "Sesi Aç",
+      "remove": "Kaldır"
+    },
+    "controls": {
+      "playAll": "Tümünü Oynat",
+      "stopAll": "Tümünü Durdur"
+    },
+    "presets": {
+      "presetNamePlaceholder": "Preset adı",
+      "save": "Kaydet",
+      "export": "Dışa aktar",
+      "import": "İçe aktar",
+      "presetsTitle": "Presets",
+      "load": "Yükle",
+      "delete": "Sil"
+    },
+    "analyzer": {
+      "comingSoon": "[Spektrum Analizörü Yakında]"
+    }
+    ,
+    "debug": {
+      "current": "Mevcut Ton",
+      "idle": "Boşta",
+      "testTone": "Test Tonu",
+      "stopTone": "Tonu Durdur"
+    }
+  }
+  ,
+  "nav": {
+    "home": "Ana Sayfa",
+    "sessions": "Oturumlar",
+    "soundLab": "Ses Laboratuvarı",
+    "dashboard": "Gösterge Paneli",
+    "frequencies": "Frekanslar",
+    "community": "Topluluk"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "greeting": "Привет, {{name}}!",
+  "play": "Воспроизвести",
+  "stop": "Остановить",
+  "notifications": "{count, plural, =0 {Нет уведомлений} one {# уведомление} few {# уведомления} other {# уведомлений}}",
+  "soundLab": {
+    "title": "Sound Lab",
+    "solfeggioButtons": {
+      "174Hz": "174 Гц (Foundation)",
+      "285Hz": "285 Гц (Quantum)",
+      "396Hz": "396 Гц (UT)",
+      "417Hz": "417 Гц (RE)",
+      "528Hz": "528 Гц (MI)",
+      "639Hz": "639 Гц (FA)",
+      "741Hz": "741 Гц (SOL)",
+      "852Hz": "852 Гц (LA)",
+      "963Hz": "963 Гц (SI)",
+      "custom": "+ Пользовательский"
+    },
+    "layer": {
+      "leftHz": "Гц (Л)",
+      "rightHz": "Гц (П)",
+      "volume": "Громк.",
+      "pan": "Пан",
+      "mute": "Выключить",
+      "unmute": "Включить",
+      "remove": "Удалить"
+    },
+    "controls": {
+      "playAll": "Воспроизвести все",
+      "stopAll": "Остановить все"
+    },
+    "presets": {
+      "presetNamePlaceholder": "Имя пресета",
+      "save": "Сохранить",
+      "export": "Экспорт",
+      "import": "Импорт",
+      "presetsTitle": "Пресеты",
+      "load": "Загрузить",
+      "delete": "Удалить"
+    },
+    "analyzer": {
+      "comingSoon": "[Анализатор спектра скоро]"
+    }
+    ,
+    "debug": {
+      "current": "Текущая нота",
+      "idle": "Ожидание",
+      "testTone": "Тестовый тон",
+      "stopTone": "Остановить тон"
+    }
+  }
+  ,
+  "nav": {
+    "home": "Главная",
+    "sessions": "Сессии",
+    "soundLab": "Sound Lab",
+    "dashboard": "Панель",
+    "frequencies": "Частоты",
+    "community": "Сообщество"
+  }
+}
