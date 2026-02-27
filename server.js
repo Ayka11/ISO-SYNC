@@ -11,8 +11,13 @@ const distPath = path.join(__dirname, 'dist');
 
 app.use(express.static(distPath));
 
-app.get('*', (req, res) => {
-  res.sendFile(path.join(distPath, 'index.html'));
+app.get(/.*/, (req, res) => {
+  try {
+    res.sendFile(path.join(distPath, 'index.html'));
+  } catch (err) {
+    console.error('Error sending index.html', err);
+    res.status(500).send('Internal Server Error');
+  }
 });
 
 app.listen(port, () => {
